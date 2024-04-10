@@ -1,0 +1,5 @@
+train: output/train/images
+val: output/val/images
+
+nc: 1
+names: ['pistol']
